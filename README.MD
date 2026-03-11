@@ -49,8 +49,9 @@ portfolio-website/
 ├── index.html
 ├── styles.css
 ├── script.js
-├── README.md
-└── portfolio-preview.png
+├── assets/
+│   └── portfolio-preview.png
+└── README.md
 
 ## Usage
 
