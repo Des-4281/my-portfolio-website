@@ -1,13 +1,16 @@
 # Portfolio Website
 
-Welcome to my portfolio website! This project showcases my skills, projects, and experience as a developer.
+Welcome to my portfolio website! This project showcases my skills, projects, and experience as a developer. 
+It demonstrates responsive web design using HTML, CSS, and JavaScript, including a mobile navigation menu and project showcase layout.
 
 ## Features
 
-- **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
-- **Project Showcase** - Display of my best work and accomplishments
-- **About Section** - Learn more about my background and expertise
-- **Contact Form** - Easy way to get in touch with me
+- **Responsive Design**: Ensures the website works seamlessly across desktop, tablet, and mobile devices.
+- **Logo Placement**: The name serves as the logo and is aligned to the left using a flexible, responsive layout.
+- **Responsive Navigation Bar**: Includes a hamburger menu that toggles a dropdown navigation for mobile viewers.
+- **Hero Section**: Introduces the website with a prominent hero section featuring an introduction and an image.
+- **Project Showcase**: Displays a project gallery with hover effects for better user interaction.
+- **Interactive Footer**: A mobile-responsive footer that includes a copyright notice, placeholder links, and clickable icons for LinkedIn, GitHub, and Hugging Face accounts.
 
 ## Technologies Used
 
@@ -20,6 +23,7 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 ### Prerequisites
 
 - A modern web browser
+- VS Code or Similar Platform (Cursor, etc) 
 
 ### Installation
 
@@ -39,11 +43,10 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 
 portfolio-website/
 ├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-└── README.MD
+├── settings.json
+├── styles.css
+├── script.js
+└── README.md
 
 ## Usage
 
@@ -52,8 +55,8 @@ Simply open the website in your browser to view the portfolio. Navigate through 
 ## Contact
 
 - Email: delosolorio@gmail.com
-- LinkedIn: 
-- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/davidsolorio/
+- GitHub: https://github.com/Des-4281 
 
 ## License
 
