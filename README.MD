@@ -3,6 +3,10 @@
 Welcome to my portfolio website! This project showcases my skills, projects, and experience as a developer. 
 It demonstrates responsive web design using HTML, CSS, and JavaScript, including a mobile navigation menu and project showcase layout.
 
+## Preview
+
+![Portfolio Screenshot](portfolio-preview.png)
+
 ## Features
 
 - **Responsive Design**: Ensures the website works seamlessly across desktop, tablet, and mobile devices.
@@ -43,10 +47,10 @@ It demonstrates responsive web design using HTML, CSS, and JavaScript, including
 
 portfolio-website/
 ├── index.html
-├── settings.json
 ├── styles.css
 ├── script.js
-└── README.md
+├── README.md
+└── portfolio-preview.png
 
 ## Usage
 
@@ -62,4 +66,9 @@ Simply open the website in your browser to view the portfolio. Navigate through 
 
 This project is open source and available under the MIT License.
 
----
+## Live Demo
+
+View the website here:  
+http://127.0.0.1:5501/ 
+
+-- 
