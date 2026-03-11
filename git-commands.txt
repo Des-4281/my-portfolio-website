@@ -1,0 +1,6 @@
+Initializing Git    
+git init
+
+Adding files to staging area (preparing changes to be saved permanently): 
+git add . or git add fileName
+
