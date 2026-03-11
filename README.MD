@@ -45,6 +45,7 @@ It demonstrates responsive web design using HTML, CSS, and JavaScript, including
 
 ## Project Structure
 
+```
 portfolio-website/
 ├── index.html
 ├── styles.css
@@ -52,6 +53,7 @@ portfolio-website/
 ├── assets/
 │   └── portfolio-preview.png
 └── README.md
+```
 
 ## Usage
 
