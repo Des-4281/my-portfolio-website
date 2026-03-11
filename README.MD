@@ -5,7 +5,7 @@ It demonstrates responsive web design using HTML, CSS, and JavaScript, including
 
 ## Preview
 
-![Portfolio Screenshot](portfolio-preview.png)
+![Portfolio Screenshot](assets/portfolio-preview.png)
 
 ## Features
 
